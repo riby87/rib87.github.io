@@ -1,0 +1,30 @@
+/*BEGIN PS4 Controller Styling*/
+.controller.ds4 {
+    background-image: url(base.png);
+}
+
+.ds4 .trigger {
+    background-image: url(triggers.png);
+}
+
+.ds4 .bumper {
+    background-image: url(bumper.png);
+}
+
+.ds4 .back, .ds4 .start {
+    background-image: url(start.png);
+}
+
+.ds4 .button {
+    background-image: url(face.png);
+}
+
+.ds4 .stick {
+    background-image: url(sticks.png);
+}
+
+.ds4 .face {
+    background-image: url(dpad.png);
+}
+
+/*END PS4 Controller Styling*/
